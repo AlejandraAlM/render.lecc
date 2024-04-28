@@ -2,11 +2,11 @@
 
 # Repositorio
 
-#URL
+# https://github.com/AlejandraAlM/render.lecc
 
 # Aplicación web
 
-# url
+# https://vehiculos-app.onrender.com/
 
 # La app es conformada por:
 # Encabezado
